@@ -1,0 +1,1 @@
+cluster_api_token_secret = "14f885c1-6796-43d1-9052-0744cfa741b2"
